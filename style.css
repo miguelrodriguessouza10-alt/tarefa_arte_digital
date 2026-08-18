@@ -24,19 +24,20 @@ h2 {
 p {
     font-size: 18px;
     line-height: 1.6;
-    nav{
-        margin-top: 20px;
-    }
+}
 
-    nav a {
-        color:white;
-        text-decoration: none;
-        background-color:blue
-        padding: 10px 15px;
-        border-radius: 8px;
-        margin: 5px;
-        display: inline-block;
-    }
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
 }
 
 main {
