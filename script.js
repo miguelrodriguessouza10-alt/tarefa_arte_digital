@@ -1,12 +1,13 @@
-const botoesCurtir = document.querySelectorAII(.curtir);
-botoesCurtir.forEach(fucntion(botaoCurtir){
+const botoesCurtir = document.querySelectorAII(".curtir");
+botoesCurtir.forEach(function(botaoCurtir){
     let curtiu = false;
-    botaoCurtir.addEventlistener("click",curtir);
+    botaoCurtir.addEventListener("click",curtir);
 function curtir (){
      const contador=botaoCurtir.querySelector("span");
      if(curtiu === false){
-            contaor.textContent++;
-            curtiu = true;}
+            contador.textContent++;
+            curtiu = true;
+        }
             else{
                 contador.textContent--;
                 curtiu=false;
