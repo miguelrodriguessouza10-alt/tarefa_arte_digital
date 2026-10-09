@@ -1,6 +1,6 @@
 :root{
     --cor-fundo:#f4f1ea;
-    --cor-texto: #222222;
+    --cor-texto: #fdfdfd;
     --cor-principal:#6b2d5c;
     --cor-secundaria:#9b4d83;
     --cor-hover:#9b4d83;
@@ -13,7 +13,7 @@
 }
 body {
     background-color: rgb(226, 226, 226);
-    color: rgb(0, 0, 0);
+    color: rgb(192, 188, 188);
     font-family: Arial, sans-serif;
     margin: 0;
 }
