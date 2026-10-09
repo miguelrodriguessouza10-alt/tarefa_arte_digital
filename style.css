@@ -3,10 +3,10 @@
     --cor-texto: #fdfdfd;
     --cor-principal:#6b2d5c;
     --cor-secundaria:#9b4d83;
-    --cor-hover:#9b4d83;
+    --cor-hover:#e0dee0;
     --cor-surperfice: white;
-    --cor-card:#f3d9fa;
-    --cor-legenda:#0c0b0b;
+    --cor-card:#8e8b8f;
+    --cor-legenda:#726d6d;
     --cor-clara: #white;
     --cor-rodape:#222222;
 
@@ -44,7 +44,7 @@ nav {
 }
 
 nav a {
-    color:#9b4d83;
+    color:#7a7077;
     text-decoration: none;
     background-color: rgba(31, 29, 51, 0.884);
     padding: 10px 15px;
