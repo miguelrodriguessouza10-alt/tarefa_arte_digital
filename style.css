@@ -1,13 +1,13 @@
 body {
     background-color: rgb(226, 226, 226);
-    color: rgb(32, 48, 78);
+    color: rgb(0, 0, 0);
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: rgb(232, 232, 238);
-    color: rgb(51, 52, 58);
+    background-color: rgba(5, 5, 109, 0.596);
+    color: rgb(57, 64, 104);
     text-align: center;
     padding: 30px;
 
