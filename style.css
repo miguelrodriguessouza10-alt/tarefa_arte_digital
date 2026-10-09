@@ -1,3 +1,16 @@
+:root{
+    --cor-fundo:#f4f1ea;
+    --cor-texto: #222222;
+    --cor-principal:#6b2d5c;
+    --cor-secundaria:#9b4d83;
+    --cor-hover:#9b4d83;
+    --cor-surperfice: white;
+    --cor-card:#f3d9fa;
+    --cor-legenda:#0c0b0b;
+    --cor-clara: #white;
+    --cor-rodape:#222222;
+
+}
 body {
     background-color: rgb(226, 226, 226);
     color: rgb(0, 0, 0);
@@ -6,7 +19,7 @@ body {
 }
 
 header {
-    background-color: rgba(5, 5, 109, 0.596);
+    background-color:#6b2d5c;(5, 5, 109, 0.596);
     color: rgb(57, 64, 104);
     text-align: center;
     padding: 30px;
@@ -18,7 +31,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(5, 15, 26);
+    color: #9b4d83;(5, 15, 26);
 }
 
 p {
@@ -31,7 +44,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color:#9b4d83;
     text-decoration: none;
     background-color: rgba(31, 29, 51, 0.884);
     padding: 10px 15px;

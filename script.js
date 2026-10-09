@@ -7,9 +7,9 @@ function curtir (){
      if(curtiu === false) {
             contador.textContent++;
             curtiu = true;
-        }else{
+        } else {
                 contador.textContent--;
-                curtiu=false;
+                curtiu = false;
         }
     }
 });
